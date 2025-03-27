@@ -1,5 +1,3 @@
-![aac90150245e5debfd33c405eee4ccd5](https://github.com/user-attachments/assets/185d5438-02ce-48f2-bf82-f00d8679f2e0)
-
 通过另一台电脑远程控制 Steam 主机的专业虚拟手柄方案，基于 **vJoy 驱动**实现低延迟键鼠/手柄到虚拟设备的转换，完美兼容 Steam 平台游戏。
 
 
