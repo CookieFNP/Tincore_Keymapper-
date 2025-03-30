@@ -1,4 +1,4 @@
-# pip install pyvjoystick==1.1.2 keyboard==0.13.5
+# pip install pyvjoystick==1.1.2.1 keyboard==0.13.5
 # 客户发送端
 
 import socket
