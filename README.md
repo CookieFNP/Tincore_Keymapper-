@@ -59,7 +59,7 @@ source gamepad-env/bin/activate
 
 #### 2. 安装依赖库
 ```bash
-pip install pyvjoystick==1.1.2 keyboard==0.13.5
+pip install pyvjoystick==1.1.2.1 keyboard==0.13.5
 ```
 
 #### 3. 配置网络参数
